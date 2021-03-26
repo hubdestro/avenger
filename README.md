@@ -1,7 +1,7 @@
 
-# Marval
+# Marvel
 
-Inspired from marval comics world.
+Inspired from marvel comics world.
 
 # Avengers
 
@@ -10,7 +10,7 @@ Whenever feel down checkout the your fav avenger.
 
 ## Fury
 
-We got access from shield to give access on confidentials information of avengers, if you and anyone from the planet earth want to join Fury team, yes can join using this application.
+We got access from shield to give access on confidential information of avengers, if you and anyone from the planet earth want to join Fury team, yes can join using this application.
 
 ### Library
 
